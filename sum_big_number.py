@@ -1,4 +1,3 @@
-
 def sum_big(first, second):
     if len(first) < len(second):
         first, second = second, first
